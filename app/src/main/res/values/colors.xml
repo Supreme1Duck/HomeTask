@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="zad1color2">#009688</color>
+    <color name="zad1color1">#02AC9C</color>
+    <color name="zad1color3">#000</color>
+    <color name="grey">#99000000</color>
+</resources>
